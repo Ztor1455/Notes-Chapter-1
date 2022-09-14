@@ -1,4 +1,5 @@
-# Notes-Chapter-1
+# Notes-Chapter-1 Cloud Concept Overview 
+
 # 1.1-1.3 What is information technology? 
 
 Cloud Computing is subset of information technology (IT) that utilizes all of the same terms as it relates to governance, operations, software, hardware, and infrastructure as traditional technology. 
